@@ -7,7 +7,6 @@ from typing import Optional, Protocol, Type, Union
 import socketserver
 import contextlib
 
-
 import sounddevice
 import numpy as np
 

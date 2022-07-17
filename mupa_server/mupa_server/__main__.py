@@ -1,5 +1,5 @@
 import click
-from audio_server import server
+from mupa_server import server
 
 
 @click.group()

@@ -8,7 +8,7 @@ Matplotlib and NumPy have to be installed.
 from matplotlib.animation import FuncAnimation
 import matplotlib.pyplot as plt
 import numpy as np
-from audio_client import Client
+from mupa_client import Client
 
 
 c = Client()
